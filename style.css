@@ -1,0 +1,26 @@
+body{
+    background-color: cornflowerblue;
+}
+#header{
+    background-color:crimson;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.intro{
+    margin-left: 10;
+}
+
+.menu{
+    margin-right: 10;
+}
+
+p,h4{
+    text-align: center;
+}
